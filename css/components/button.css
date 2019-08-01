@@ -1,0 +1,15 @@
+.btn-whisp {
+  border-radius: 6px;
+  padding: 10px 30px;
+  color: white;
+  width: 88px;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #89BCFB;
+  box-shadow: 1px 1px 5px 1px rgba(175, 175, 175, 0.58);
+}
+
+.btn-whisp:hover {
+  background-color: #66A9FB;
+  font-weight: bolder;
+}
